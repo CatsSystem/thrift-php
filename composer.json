@@ -1,13 +1,13 @@
 {
-    "name": "kuaigeng/thrift-php",
+    "name": "cat-system/thrift-php",
     "authors": [
         {
             "name": "lidanyang",
-            "email": "lidanyang@kuaigeng.com"
+            "email": "lancelot2014@foxmail.com"
         }
     ],
     "require": {
-
+        
     },
     "autoload": {
         "psr-0": {"Thrift": "lib/php/lib/"}
