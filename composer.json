@@ -1,0 +1,15 @@
+{
+    "name": "kuaigeng/thrift-php",
+    "authors": [
+        {
+            "name": "lidanyang",
+            "email": "lidanyang@kuaigeng.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {"Thrift": "lib/php/lib/"}
+    }
+}
